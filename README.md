@@ -8,7 +8,7 @@ Title : Exclude Popunders
 
 Conditions
 
-<i> IF | js.pag_pagetitle DOES_NOT_CONTAIN_IGNORE_CASE popunder <i>
+<i> IF | js.pag_pagetitle DOES_NOT_CONTAIN_IGNORE_CASE popunder </i>
 
 After clicking on <b>EDIT</b> on <b>LOAD RULE CONFIGURATION : </b>
 
